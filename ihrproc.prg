@@ -2,6 +2,7 @@
 #define crypt   "`1234567890-=[];'\,./~!@#$%^&*()_+{}:"|<>?qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM"
 
 *** Прва промена - developZorica 
+*** Втора промена - master
 oXXX=NewIHRReplikator()
 
 PROCEDURE NewIHRReplikator()
