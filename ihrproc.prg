@@ -3,6 +3,7 @@
 
 *** Прва промена - developZorica 
 *** Втора промена - master
+*** treta promena - developZorica
 oXXX=NewIHRReplikator()
 
 PROCEDURE NewIHRReplikator()
