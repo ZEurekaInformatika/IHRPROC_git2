@@ -4,6 +4,7 @@
 *** Прва промена - developZorica 
 *** Втора промена - master
 *** treta promena - developZorica
+*** cetvrta promena -DevlopEleonora so pull request
 oXXX=NewIHRReplikator()
 
 PROCEDURE NewIHRReplikator()
